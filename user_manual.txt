@@ -1,0 +1,8 @@
+Steps to run the code:
+1- Create a new folder in your drive "C:\" and change its name to "test"
+2- Copy all provided files in "C:\test"
+3- Install Matlab software
+4- Download Libsvm toolbox from http://www.csie.ntu.edu.tw/~cjlin/libsvm/,and Install it in Matlab toolbox.
+4- Open MATLAB 2017a and change the current directory to "C:\test"
+5- Run "main.m" file in MATLAB
+6- This code outputs prediction data.
